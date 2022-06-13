@@ -1,5 +1,3 @@
-
-
 # SA-C-GENDER-CLASSIFIER
 # Algorithm
 1. Install the DeepFace library using the command pip install deepface
@@ -11,8 +9,8 @@
 
 # Program:
 ## Program to implement 
-## Developed by   : H.Dhayanitha
-## RegisterNumber :  212220230010
+## Developed by   : S.Sumyuktha Rani
+## RegisterNumber :  212220230050
 
 ```
 !pip install deepface
@@ -39,4 +37,3 @@ print("Gender : ",result['gender'])
 
 # DEMO VIDEO YOUTUBE LINK:
 https://youtu.be/dgkx6u2lLR0
-
