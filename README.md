@@ -30,10 +30,10 @@ print("Gender : ",result['gender'])
 ```
 
 ## OUTPUT:
-![3](https://user-images.githubusercontent.com/75235032/173244294-7f727c3c-a1c5-4d09-ab77-73b6cd08dea1.jpg)
 
-![4](https://user-images.githubusercontent.com/75235032/173244300-8fd32f1c-4d0a-48fc-9179-052e7a9c3ae7.jpg)
+![surya ss](https://user-images.githubusercontent.com/75235818/174488192-2dc22f05-150a-4834-acfb-daaff7dea9a1.png)
 
+![sam ss](https://user-images.githubusercontent.com/75235818/174488221-471a4604-c2d5-497a-b042-d4a3ca9256d3.png)
 
 # DEMO VIDEO YOUTUBE LINK:
 https://youtu.be/dgkx6u2lLR0
