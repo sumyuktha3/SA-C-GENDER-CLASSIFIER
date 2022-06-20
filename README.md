@@ -36,4 +36,4 @@ print("Gender : ",result['gender'])
 ![sam ss](https://user-images.githubusercontent.com/75235818/174488221-471a4604-c2d5-497a-b042-d4a3ca9256d3.png)
 
 # DEMO VIDEO YOUTUBE LINK:
-https://youtu.be/dgkx6u2lLR0
+[https://youtu.be/dgkx6u2lLR0](https://youtu.be/oP551PGB-JU)
